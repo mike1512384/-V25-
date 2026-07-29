@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "《共践哲学》"
+authors:
+  - name: "mike1512384"
+    affiliation: ""
+version: "Unreleased"
+license: "CC-BY-SA-4.0"
+message: "如果引用或使用本仓库中的文本，请署名并注明许可（CC BY-SA 4.0）。"
+url: "https://github.com/mike1512384/-V25-"
